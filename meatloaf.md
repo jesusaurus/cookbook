@@ -1,19 +1,19 @@
 # Ingredients #
 
 * 1 lbs ground beef
-* 1/2 cup bread crumbs
+* 1 cup bread crumbs
 * 1 egg
 * 1 carrot (grated)
 * 1 onion (diced)
 * 15 oz black beans
-* 1/4 cup cream
+* 1/3 cup cream
 * 1 tsp chili powder
 * 1 tsp cumin
 * 1/2 tsp cinnamon
 
-* 1/3 cup ketchup
+* 1/2 cup ketchup
 * 2 tbsp brown sugar
-* 1 tbsp A1
+* 1/4 cup A1
 
 # Directions #
 
