@@ -1,4 +1,6 @@
-# Ingredients #
+## BBQ Stew
+
+#### Ingredients
 
 * 1.5 lbs chicken
 * 16 oz bbq sauce
@@ -11,7 +13,7 @@
 * 1 can corn
 * 1 can beans
 
-# Directions #
+#### Directions
 
 Quarter the chicken breasts, cover with bbq sauce in a casserole dish, and
 cook at 325° for an hour. Remove from oven and pull/shred the chicken (can be
