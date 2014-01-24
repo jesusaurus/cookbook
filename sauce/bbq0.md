@@ -1,4 +1,6 @@
-# Ingredients #
+## BBQ 0
+
+#### Ingredients
 
 * 1 Tbsp butter
 * 1 cup bourbon
@@ -13,7 +15,7 @@
 * 1 tsp white pepper
 * 1 tsp Sriracha
 
-# Directions #
+#### Directions
 
 In a double boiler, melt butter in bourbon and sauté onion and garlic.
 Stir in tomato puree, ketchup, A1, and vinegar over medium heat.
