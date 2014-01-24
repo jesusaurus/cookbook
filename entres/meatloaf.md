@@ -1,4 +1,6 @@
-# Ingredients #
+## Meatloaf
+
+#### Ingredients
 
 * 1 lbs ground beef
 * 1 cup bread crumbs
@@ -14,7 +16,7 @@
 * 2 tbsp brown sugar
 * 1/4 cup A1
 
-# Directions #
+#### Directions
 
 Preheat oven to 340°F. Mix the ketchup, brown sugar, and A1 together then set
 aside. Combine the remaining ingredients by hand until well mixed, then put
