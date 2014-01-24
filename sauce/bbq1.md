@@ -1,4 +1,6 @@
-# Ingredients #
+## BBQ 1
+
+#### Ingredients
 
 * 1 Tbsp butter
 * 1 cup bourbon
@@ -14,7 +16,7 @@
 * 1 tsp liquid smoke
 * 1/2 tsp curry powder
 
-# Directions #
+#### Directions
 
 In a double boiler over medium-low heat, melt butter and sauté onion and garlic.
 Add bourbon and simmer. Stir in tomato sauce, ketchup, and vinegar. Stir and simmer.

@@ -1,4 +1,6 @@
-# Ingredients #
+## Chocolate Chip Cookies
+
+#### Ingredients
 
 * 2 1/4 cups flour
 * 1 tsp baking soda
@@ -10,7 +12,7 @@
 * 2 large eggs
 * 2 cups chocolate chips
 
-# Directions #
+#### Directions
 
 Combine flour, salt, soda, and set aside.
 Beat butter, sugars, and vanilla until creamy.

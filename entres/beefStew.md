@@ -1,4 +1,6 @@
-# Ingredients #
+## Beef Stew
+
+#### Ingredients
 
 * 1 Tbsp butter
 * 2 lbs stewing beef
@@ -16,7 +18,7 @@
 * 1 tsp basil
 * 1 tsp salt
 
-# Directions #
+#### Directions
 
 Melt the butter in a large pot (or dutch oven ;) on medium-high heat and brown
 the stewing beef in it. Add the tomatoes, paste, beer, and water. Reduce heat

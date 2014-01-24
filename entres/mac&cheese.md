@@ -1,4 +1,6 @@
-# Ingredients #
+## Mac & Cheese
+
+#### Ingredients
 
 * 16 oz noodles
 * 1 tbls butter
@@ -16,7 +18,7 @@
 * 2 tbls pretzel crumbs
 * to taste: salt & pepper
 
-# Directions #
+#### Directions
 
 Cook noodles al dente, drain well, and set aside.
 Melt butter in a large pot and saute the vegetables.
