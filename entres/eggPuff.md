@@ -1,4 +1,6 @@
-# Ingredients #
+## Egg Puff
+
+#### Ingredients
 
 * 16 slices white bread
 * butter
@@ -11,7 +13,7 @@
 * 1/2 tsp liquid smoke
 * 1 lb sharp cheddar (grated)
 
-# Directions #
+#### Directions
 
 Cut bread into 1 inch squares and spread in bottom of dutch oven.
 Cook sausage in frying pan with butter.
