@@ -10,7 +10,6 @@
 * 1 tsp chili powder
 * 1 tsp cumin
 * 1/2 tsp cinnamon
-
 * 1/2 cup ketchup
 * 2 tbsp brown sugar
 * 1/4 cup A1
