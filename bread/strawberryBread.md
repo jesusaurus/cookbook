@@ -1,4 +1,6 @@
-# Ingredients #
+## Strawberry Bread
+
+#### Ingredients
 
 * 3 cups fresh strawberries
 * 1/3 cup brown sugar
@@ -14,7 +16,7 @@
 * 2 tsp allspice
 * 1 1/2 cups sugar
 
-# Directions #
+#### Directions
 
 Preheat oven to 300°.
 Mash strawberries and let stand in room temperature for 1 hour.
