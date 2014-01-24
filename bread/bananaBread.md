@@ -1,4 +1,6 @@
-# Ingredients #
+## Banana Bread
+
+#### Ingredients
 
 * 1 3/4 cups flour
 * 2 tsp baking powder
@@ -10,7 +12,7 @@
 * 1 cup mashed bananas
 * 1/2 cup nuts
 
-# Directions #
+#### Directions
 
 Cream together butter and sugar, add eggs and beat until light and fluffy.
 Sift dry ingredients together.
