@@ -1,4 +1,6 @@
-# Ingredients #
+## Peanut Butter Chocolate Chip Cookies
+
+#### Ingredients
 
 Use some multiple of:
 
@@ -10,7 +12,7 @@ Use some multiple of:
 I like to mix mini semi-sweet, regular semi-sweet, milk chocolate, and dark
 chocolate chips depending on what I have on hand.
 
-# Directions #
+#### Directions
 
 Preheat oven to 350°F.
 
