@@ -6,5 +6,4 @@
 
 # Directions #
 
-Place the pork in a crock pot and pour the ginger ale over. Cook on low for 8 hours. Once cooked pour BBQ sauce on the pork and 
-shred. Serve and enjoy.
+Place pork in a crock pot and pour in the ginger ale. Cook on low for 8 hours. Once cooked pour BBQ sauce all over the pork and shred. Serve and enjoy.
