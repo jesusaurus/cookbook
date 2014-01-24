@@ -14,7 +14,7 @@
 * 2 teaspoons vanilla extract
 * 1 cup boiling water
 
-#### Directions #
+#### Directions
 
 Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine
 inch round pans.
