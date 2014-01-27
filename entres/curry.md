@@ -1,4 +1,6 @@
-# Ingredients #
+## Curry
+
+#### Ingredients
 
 * 1 lbs chicken (thinly sliced)
 * 1 bell pepper (sliced)
@@ -12,7 +14,7 @@
 * 1 tsp cumin
 * 1 tsp sugar
 
-# Directions #
+#### Directions
 
 Measure 1 cup of dry rice and cook then set aside.
 In a large pot over medium-high heat, bring chicken and coconut milk to a boil.

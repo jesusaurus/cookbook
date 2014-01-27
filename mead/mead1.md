@@ -1,4 +1,6 @@
-# Ingredients #
+## Mead 1
+
+#### Ingredients
 
 * 6 lbs honey
 * 11 oz agave
@@ -9,7 +11,7 @@
 * 1 packet champagne yeast (E491)
 * water
 
-# Directions #
+#### Directions
 
 Ferment at 72° F for 3 months.
 Makes 3 gallons.
