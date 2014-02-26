@@ -13,12 +13,13 @@
 * 1 tsp cumin
 * 1/2 tsp cinnamon
 * 1/2 cup ketchup
-* 2 tbsp brown sugar
 * 1/4 cup A1
+* 2 tbsp brown sugar
+* 1 tsp liquid smoke
 
 #### Directions
 
-Preheat oven to 340°F. Mix the ketchup, brown sugar, and A1 together then set
-aside. Combine the remaining ingredients by hand until well mixed, then put
-into a greased loaf pan. Pour the glaze on top of the loaf and cook for 1 hour,
-then allow to cool.
+Preheat oven to 340°F. Mix the ketchup, brown sugar, A1, and liquid smoke
+together then set aside. Combine the remaining ingredients by hand until well
+mixed, then put into a greased loaf pan. Pour the glaze on top of the loaf and
+cook for 1 hour, then allow to cool.
