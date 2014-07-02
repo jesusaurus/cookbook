@@ -1,4 +1,4 @@
-## Curry
+## Thai Curry (Chicken)
 
 #### Ingredients
 
