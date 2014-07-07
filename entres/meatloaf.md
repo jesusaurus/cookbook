@@ -42,5 +42,5 @@ cook for 1 hour, then allow to cool.
 
 Preheat oven to 350°F. Combine all ingredients but ketchip in a large bowl.
 Mix everything together by hand until well mixed. Make two loaves of meat in
-an 13x8" pan. Cover top of loaves with ketchup if desired. Bake until intneral
+an 13x8" pan. Cover top of loaves with ketchup if desired. Bake until internal
 temperature is 165°F (approximately one hour and fifteen minutes).
