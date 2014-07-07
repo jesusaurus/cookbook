@@ -23,3 +23,24 @@ Preheat oven to 340°F. Mix the ketchup, brown sugar, A1, and liquid smoke
 together then set aside. Combine the remaining ingredients by hand until well
 mixed, then put into a greased loaf pan. Pour the glaze on top of the loaf and
 cook for 1 hour, then allow to cool.
+
+## Simple Meatloaf
+
+#### Ingredients
+
+* 2 lbs ground beef
+* 1 cup of bread crumbs
+* 1 egg
+* 1 onion (diced)
+* 1 tsp salt
+* 1 tsp ground black pepper
+* 1/4 cup of milk
+* 1 tbsp worcestershire sauce
+* Ketchup (optional)
+
+#### Directions
+
+Preheat oven to 350°F. Combine all ingredients but ketchip in a large bowl.
+Mix everything together by hand until well mixed. Make two loaves of meat in
+an 13x8" pan. Cover top of loaves with ketchup if desired. Bake until internal
+temperature is 165°F (approximately one hour and fifteen minutes).
