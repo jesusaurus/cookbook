@@ -13,7 +13,7 @@
 * 1 tbls paprika
 * 1 cube boullion
 * 1 cup hot water
-* 1 cup (dry) rice (cooked)
+* 1 cup rice
 * 1/2 cup raisins
 * 1/2 cup peanuts (washed|unsalted)
 
@@ -23,8 +23,8 @@
 #### Directions
 
 Mix flour, salt, and pepper in a paper bag and shake the lamb in the flour
-mixture. Heat 2tbls grease in a large skillet. Brown breaded meat on all sides.
-Save flour mixture. Add onion and 1tbls oil to skillet and sauté. Add curry
-powder, paprika, boullion, and hot water. Simmer for 45 minutes. Cook rice.
-Add cooked rice, raisins, peanuts, and flour mixture to skillet.
-Simmer 15 minutes.
+mixture. Heat grease in a large skillet on medium heat. Brown breaded meat on
+all sides. Save flour mixture. Add onion and oil to skillet and sauté.
+Add curry powder, paprika, boullion, hot water, and reduce heat to low. Simmer
+for 45 minutes. Cook rice.  Add cooked rice, raisins, peanuts, and flour
+mixture to skillet. Simmer 15 minutes.
