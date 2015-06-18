@@ -18,8 +18,8 @@ Directions:
   5. Preheat oven to 475 F (245 C), prepare baking trays with parchment paper.
   6. Fill large saucepan with water and bring to rolling boil, add honey to taste.
   7. Boil each bagel in boiling water for about 1 minute per side, place in baking trays.
-  8. Season bagels to taste.*
+  8. Season bagels to taste. [1]
   9. Bake for 15-20 minutes until bagels begin to brown.
 
-* Suggested seasonings:
+[1] Suggested seasonings:
   garlic, cheese, poppy seeds, sesame seeds, onions, salt, 
