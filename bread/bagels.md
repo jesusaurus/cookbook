@@ -21,5 +21,6 @@ Directions:
   8. Season bagels to taste. [1]
   9. Bake for 15-20 minutes until bagels begin to brown.
 
+#### Notes:
 [1] Suggested seasonings:
-  garlic, cheese, poppy seeds, sesame seeds, onions, salt, 
+  - garlic, cheese, poppy seeds, sesame seeds, onions, salt, 

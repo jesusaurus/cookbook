@@ -19,7 +19,7 @@
 ##### Notes:
   * Do not store starter in air-tight container. Container may explode due to pressure.
   * Starter may be preserved indefinitely with proper care:
-    * Refrigerate in plastic wrapped container when not in use.
-    * After using part of starter, replace used amount of starter with equal amounts of flour and water, and stir into mixture. (i.e. If used 1 cup starter: add 1 cup water and 1 cup flour)
-    * Starter must be fed every few days. Remove a cup of starter and replace with equal amounts water and flour.
-    * If not able to feed for a week or more, store starter in freezer in sealed container, thaw at least 2 days before use.
+    - Refrigerate in plastic wrapped container when not in use.
+    - After using part of starter, replace used amount of starter with equal amounts of flour and water, and stir into mixture. (i.e. If used 1 cup starter: add 1 cup water and 1 cup flour)
+    - Starter must be fed every few days. Remove a cup of starter and replace with equal amounts water and flour.
+    - If not able to feed for a week or more, store starter in freezer in sealed container, thaw at least 2 days before use.

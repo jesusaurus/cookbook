@@ -23,8 +23,9 @@
   9. Brush each pretzel with egg yolk and salt/season to taste.
   10. Bake until dark golden brown in color, about 12-14 mins
 
+#### Notes
 [1] Suggested Pretzel Shapes:
-  Standard Knot: roll into 24-inch rope, make a U-shape holding the ends and press ends firmly into bottom of the U
-  Pig-in-a-pretzel: With Beer Bratwursts, pinch dough in center to make a donut shape, insert bratwurst and roll/wrap dough around brat until dough is covering bratwurst about 1/4-inch all around
-  Rolls, Loafs, Lumps, Sticks: self-explanatory, get creative
+  - Standard Knot: roll into 24-inch rope, make a U-shape holding the ends and press ends firmly into bottom of the U
+  - Pig-in-a-pretzel: With Beer Bratwursts, pinch dough in center to make a donut shape, insert bratwurst and roll/wrap dough around brat until dough is covering bratwurst about 1/4-inch all around
+  - Rolls, Loafs, Lumps, Sticks: self-explanatory, get creative
 

@@ -20,5 +20,5 @@
       Note: Dough will keep for 3 days in fridge, 1 month in freezer.
   6. Keep dough chilled until ready to roll out into pie crust.
 
-
-[1] Butter, Lard, Shortening, Coconut Oil, etc. to taste Leaf Lard is best. Shortening makes a good, sturdy, flaky crust, at the cost of flavor.  Butter is flavorful, but less flaky.
+#### Notes
+1. Butter, Lard, Shortening, Coconut Oil, etc. to taste Leaf Lard is best. Shortening makes a good, sturdy, flaky crust, at the cost of flavor.  Butter is flavorful, but less flaky.

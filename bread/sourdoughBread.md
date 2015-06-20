@@ -37,6 +37,6 @@
 
 
 #### Notes:
-[1] Suggested seasonings: salt, chopped onion, garlic
-[2] Ambient humidity will effect exactly how much flour you need. Add flour slowly until dough is smooth and just barely sticks to you.
-[3] Egg wash may be replaced with melted butter for a slightly drier crust.
+1. Suggested seasonings: salt, chopped onion, garlic
+2. Ambient humidity will effect exactly how much flour you need. Add flour slowly until dough is smooth and just barely sticks to you.
+3. Egg wash may be replaced with melted butter for a slightly drier crust.
