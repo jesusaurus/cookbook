@@ -5,7 +5,7 @@
 * 1 cup rice
 * 2 cans coconut milk
 * 1 lbs chicken (thinly sliced)
-* 1 tbls red curry paste
+* 1 tbls [yellow curry paste](../sauce/yellowCurryPaste.md)
 * 1 bell pepper (sliced)
 * 1 medium onion (sliced)
 * 16 oz green beans (drained)
